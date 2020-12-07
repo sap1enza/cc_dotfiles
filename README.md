@@ -33,7 +33,7 @@ Ubuntu
 Run follow command:
 
 ```
-sh -c "`curl -fSs https://raw.githubusercontent.com/campuscode/cc_dotfiles/master/install.sh`"
+sh -c "`curl -fSs https://raw.githubusercontent.com/sap1enza/cc_dotfiles/master/install.sh`"
 ```
 
 Type your password to change your default shell to `zsh`
